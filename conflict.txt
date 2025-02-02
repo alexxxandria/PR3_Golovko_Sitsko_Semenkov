@@ -1,1 +1,1 @@
-Контент из feature_merge_conflict1
+Это версия файла из feature_merge_conflict2
